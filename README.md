@@ -1,8 +1,9 @@
 
 # React-Router-BareBones
-Live Web App LLink[https://dulcet-khapse-78ad80.netlify.app/host/vans/1/photos]
+[Live Web App Link](https://dulcet-khapse-78ad80.netlify.app/host/vans/1/photos)
+
 ## What I learned /Did
-- used  offical documenation of react router dom[https://reactrouter.com/en/main/start/overview]
+- [used  offical documenation of react router dom](https://reactrouter.com/en/main/start/overview)
 - implemented and learned  most of the things from here.
 - routing,nested routing, dyanamic routing,Shared UI using Outlet 
 - implemenated Outlet  ,CreateBrowser routing, isActive,end ,path="." ,path=".." etc 
